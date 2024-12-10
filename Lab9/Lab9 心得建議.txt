@@ -1,0 +1,2 @@
+此次課程介紹了計算機網路的基礎知識，包括網路模型（OSI 和 TCP/IP）、網路層次與協議的功能。學習了如何在Linux中管理網路，通過GUI和Netplan配置靜態 IP，使用命令如 ifconfig、ping和traceroute測試與管理網路連線，並了解了遠端連線工具（如 SSH 和 SFTP）的使用。這些技能對日常網路管理與故障排除非常實用。
+此次作業config file範例中，ethernets有拼寫錯誤，以及在執行sudo netplan try和sudo netplan apply時會跑出許多關於權限過寬鬆的warning，建議助教可以提醒說有warning，或是能夠給予如何解決那些warning的方向。
