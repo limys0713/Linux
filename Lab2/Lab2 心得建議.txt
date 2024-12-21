@@ -1,0 +1,2 @@
+這次課程介紹了版本控制系統的重要性，重點是Git的使用。學習了Git的基本功能，如檔案狀態管理（untracked、staged、committed）、分支操作及變更提交。課程還涵蓋了GitHub Flow，展示如何有效地進行分支管理和協作開發，並通過實作掌握基礎指令如git add、git commit和git push。
+作業部分，我使用了第一種方式（透過HTTP），過程簡單直觀，學習到了如何生成token，fork以及建立branch。建議助教能夠放這兩種方法的利與弊，以供參考。
