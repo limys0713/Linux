@@ -1,0 +1,9 @@
+這週Lab建議：
+•建議在這次lab也註明ROS1和ROS2的對應差異。
+•在ROS2「creating a package」頁面，第二條指令中的長線應為 --。
+•Add dependencies和entry points頁，指令應補上/src/。
+•Building your nodes頁，需加上$ cd ~/ros2_ws，因爲src不在那時刻的文件夾，而是位於ros2_ws文件夾中；此外，第一行指令中的-y應改為短線。
+•開三個terminal頁，建議直接在當下已處於ros2_ws文件夾的情況直接開個new window，可以避免在每個terminal都輸入$ cd ~/ros2_ws。
+
+這週課程：
+ROS是一套工具，用於機器人開發，透過節點通訊並提供可視化調試工具，如rqt_graph和rviz。
