@@ -1,0 +1,2 @@
+本次課程重點是Vim和tmux的使用。學習了Vim的多模式操作（Normal、Insert、Command-line 等），基本指令如游標移動、複製、刪除及自定義快捷鍵，並瞭解.vimrc的配置及插件功能。tmux部分介紹了分割窗口、切換面板等基礎操作，並學會通過.tmux.conf文件進行快捷鍵綁定和偏好設置，進一步提升終端多工管理的效率。
+這次作業是關於下載以及如何使用vim-plug管理插件，並在quickfix window上操作，也讓我見識到了plugin的功用以及學習到基本vim的操作。
