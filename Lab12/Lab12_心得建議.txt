@@ -1,0 +1,9 @@
+Lab 建議：
+•建議PPT也像之前分開ROS&ROS2所對應的操作内容，這樣可能更直觀。
+•建議Record Rosbag那頁也標記是在哪個Terminal進行操作。
+•建議第二張截圖改成截執行play command後的烏龜圖，不然其實有沒有Restart turtlesim_node，對於該Command的Output沒什麼差別。或者可以補充說明Restart turtlesim_node的真正作用其實是爲了顯示那個烏龜會走回你之前所操控以及記錄的路線。
+
+上課建議：
+•可多講解感測器技術（LiDAR、雷達與相機）的優缺點。
+•可加入更多像Tesla或Waymo等真實應用/案例。
+•針對Mission Planner和Motion Planner的差異進行更深入的解釋。
